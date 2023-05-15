@@ -1,16 +1,19 @@
 import React from 'react';
 import './App.css';
-import Hero from './Hero';
-import Header from './Header';
-import AboutMe from './AboutMe';
+import Home from './Home';
+import Projects from './Projects';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Hero />
-      <AboutMe />
-    </div>
+    <Router>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/Projects" element={<Projects />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
