@@ -1,18 +1,12 @@
 import React from 'react';
+import Navbar from './Navbar';
 
 const Header = () => {
   return (
     <header>
       <h1>Doyle Jones</h1>
       <h2>Software Developer</h2>
-      <nav>
-        <ul>
-          <li><a href="#about">About</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </nav>
+        <Navbar />
     </header>
   );
 };

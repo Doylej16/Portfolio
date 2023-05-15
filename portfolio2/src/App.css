@@ -22,3 +22,23 @@ h2 {
   font-size: 2rem;
   font-weight: 400;
 }
+
+.about {
+  background-color: #f2f2f2;
+  padding: 4rem 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h3 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
