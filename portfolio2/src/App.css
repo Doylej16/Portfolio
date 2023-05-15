@@ -42,3 +42,29 @@ p {
   font-size: 1.2rem;
   line-height: 1.5;
 }
+
+.navbar {
+  background-color: #f2f2f2;
+  padding: 1rem;
+}
+
+.nav-links {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin-right: 1rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  color: #000;
+}
