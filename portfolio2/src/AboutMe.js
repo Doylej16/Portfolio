@@ -12,8 +12,7 @@ const About = () => {
           efficient and user-friendly applications that solve real-world problems.
         </p>
         <p>
-          Throughout my journey as a developer, I have collaborated with
-          cross-functional teams, gained valuable experience in agile
+          Throughout my journey as a developer, I have gained valuable experience in agile
           development methodologies, and delivered high-quality software
           solutions. I am constantly seeking opportunities to learn and grow,
           and I thrive in a fast-paced, challenging environment.
