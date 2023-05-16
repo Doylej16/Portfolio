@@ -14,10 +14,10 @@ This project is built using a combination of react, react-router-dom, and my own
 4. Run `npm start` to start the application
 
 ## Installation
-![Screenshot 1](./public/port1.png)
-![Screenshot 2](./public/port2.png)
-![Screenshot 3](./public/port3.png)
-![Screenshot 4](./public/port4.png)
+![Screenshot 1](./portfolio/public/port1.png)
+![Screenshot 2](./portfolio/public/port2.png)
+![Screenshot 3](./portfolio/public/port3.png)
+![Screenshot 4](./portfolio/public/port4.png)
 
 ## License
 MIT
