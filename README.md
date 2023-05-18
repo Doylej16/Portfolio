@@ -13,7 +13,6 @@ This project is built using a combination of React, react-router-dom, and my own
 4. Run `npm start` to start the application.
 
 ## Screenshots
-![Screenshot 1](./portfolio2/public/port1.png)
 ![Screenshot 2](./portfolio2/public/port2.png)
 ![Screenshot 3](./portfolio2/public/port3.png)
 ![Screenshot 4](./portfolio2/public/port4.png)
